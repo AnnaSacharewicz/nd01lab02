@@ -22,6 +22,12 @@
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
+
+a {
+    color: hotpink;
+    
+}
+
 body
 {
 	background-color :blue;
